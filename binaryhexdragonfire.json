@@ -1,0 +1,561 @@
+[
+     {
+    "m1": "MNC TV (1)",
+    "m2": "https://live.rctiplus.id/rctiplus/mnctv_540p.m3u8",
+    /*"m2": "http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain\u003d000001.live_hls.zte.com\u0026IASHttpSessionId\u003dOTT2832620180822024844000001",*/
+    "m3": "https://1.bp.blogspot.com/-I1oz5pNqQig/WYHc7jNbvQI/AAAAAAAAA6Y/WIQbaE2-Wd0va0qldNrirynxz12cgmibgCLcBGAs/s1600/mnctv.png",
+    "m4": "Selalu Di Hati",
+    "m5": "TV Indonesia Frekuensi Parabola Digital: \nTransponder Mnctv Mpeg2: 04186 V 06250\nTransponder Mnctv Mpeg4: 0 4374 H  06499\nAudio PID : 121-32\nVideo PID : 1110-33n"
+   },
+  {
+    "m1": "RTV (1)",
+    "m2": "http://210.210.155.35/session/c83b69ae-3162-11ea-892c-c81f66f89318/qwr9ew/s/s12/01.m3u8",
+    /*"m2": "https://erva.rumahstreaming.stream/servr28tv/lives/playlist.m3u8",*/
+    "m3": "https://4.bp.blogspot.com/-RWDnW5xflZw/WYHdtAPyoNI/AAAAAAAAA7E/TUikbzHZs84ux20A5fnI-yuUab1L-flkgCLcBGAs/s1600/rtv.png",
+    "m4": "Untuk Indonesia",
+    "m5": "TV Indonesia \n     Frekuensi Parabola Digital: Frekuensi : 03863\nSymbol Rate : 04330\nPolarisasi : V\nVideo PID : 0512\nAudio PID : 4112\nPCR PID : 0512"
+     },
+   {
+    "m1": "RTV (2)",
+    "m2": "http://210.210.155.35/session/c83b69ae-3162-11ea-892c-c81f66f89318/qwr9ew/s/s12/01.m3u8",
+    "m3": "https://4.bp.blogspot.com/-RWDnW5xflZw/WYHdtAPyoNI/AAAAAAAAA7E/TUikbzHZs84ux20A5fnI-yuUab1L-flkgCLcBGAs/s1600/rtv.png",
+    "m4": "Untuk Indonesia",
+    "m5": "TV Indonesia \n     Frekuensi Parabola Digital: Frekuensi : 03863\nSymbol Rate : 04330\nPolarisasi : V\nVideo PID : 0512\nAudio PID : 4112\nPCR PID : 0512"
+    },
+    {
+     "m1": "RCTI Server OK (2)",
+     "m2": "https://live.rctiplus.id/rctiplus/rcti_360p.m3u8",
+     /*"m2": "http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2832620180822024844000001",*/
+     "m3": "https://1.bp.blogspot.com/-MeN6sCKMih8/WYHc8OdQyWI/AAAAAAAAA6k/DHV8hYTFC5MPZyoWuacxGdhfNwIfcqlzgCLcBGAs/s1600/rcti.png",
+     "m4": "Kebanggaan Bersama Milik Bangsa",
+     "m5": "Apabila Video Tidak Bisa Diputar Silahkan Pilih Server Yang Lain \nTerus Support Aplikasi Ini. \nTerima Kasih"
+    },
+    {
+    "m1": "RCTI Server OK (1)",
+    "m2": "https://live.rctiplus.id/rctiplus/rcti_360p.m3u8",
+    /*"m2": "http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",*/
+    "m3": "https://1.bp.blogspot.com/-MeN6sCKMih8/WYHc8OdQyWI/AAAAAAAAA6k/DHV8hYTFC5MPZyoWuacxGdhfNwIfcqlzgCLcBGAs/s1600/rcti.png",
+    "m4": "Kebanggaan Bersama Milik Bangsa",
+    "m5": "TV Indonesia Frekuensi Parabola Digital: \nTransponder Rcti  Mpeg2: 04186 V 06250"
+  },
+  {
+    "m1": "GLOBAL TV (1)",
+    "m2": "http://id6.indostreamingtv.com/live/tv1/index.m3u8",
+    /*"m2": "http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com",*/
+    "m3": "https://2.bp.blogspot.com/-VJIPU9Ny91o/WYHc7FjBZWI/AAAAAAAAA6Q/Ns9jARMbuAo9A1p5uk-7qvq8nsAsjI0FwCLcBGAs/s1600/globaltv.png",
+    "m4": "100% Seru!",
+    "m5": "TV Indonesia Frekuensi Parabola Digital: \nTransponder Global tv  Mpeg2: 04186 V 06250\nTransponder Global tv Mpeg4: 0 4533 H  07199\nAudio PID : 0256-1220\nVideo PID : 0308-1210"
+  },
+  {
+    "m1": "GLOBAL TV (2)",
+    "m2": "https://live.rctiplus.id/rctiplus/gtv_540p.m3u8",
+    /*"m2": "http://202.80.222.171/000001/2/ch14041511505498448705/index.m3u8?virtualDomain\u003d000001.live_hls.zte.com",*/
+    "m3": "https://2.bp.blogspot.com/-VJIPU9Ny91o/WYHc7FjBZWI/AAAAAAAAA6Q/Ns9jARMbuAo9A1p5uk-7qvq8nsAsjI0FwCLcBGAs/s1600/globaltv.png",
+    "m4": "100% Seru!",
+    "m5": "TV Indonesia Frekuensi Parabola Digital: \nTransponder Global tv  Mpeg2: 04186 V 06250\nTransponder Global tv Mpeg4: 0 4533 H  07199\nAudio PID : 0256-1220\nVideo PID : 0308-1210"
+  },
+    {
+     "m1": "Use TV",
+     "m2": "http://210.210.155.35/qwr9ew/s/s04/02.m3u8",
+     "m3": "http://icons.iconarchive.com/icons/google/noto-emoji-objects/1024/62845-television-icon.png",
+     "m4": "Memang Untuk Anda",
+     "m5": "Frekuensi Parabola Digital: \nTransponder  Indosiar Mpeg2:  03835 H 07000\nTransponder Indosiar mpeg4 : 4732 H 12250\nAudio PID : 1211-2002\nVideo PID : 1110-2001\nPID PCR : 1110-2002"
+    },
+   {
+     "m1": "iNews TV",
+     /*"m2": "https://erva.rumahstreaming.stream/servinew35stv/lives/playlist.m3u8",*/
+     "m2": "https://live.rctiplus.id/rctiplus/inews_360p.m3u8",
+     "m3": "https://2.bp.blogspot.com/-Y3oCO6_aS1k/WYHe9vQWWhI/AAAAAAAAA7M/FD2IzD7PfucAqoAL6sJDWYemYv-8GftfACLcBGAs/s1600/inewstv.png",
+     "m4": "Inspiring & IFormative",
+     "m5": "Frekuensi Parabola Digital: \nTransponder iNews tv  Mpeg2: 04186 V 06250\nTransponder iNews tv  Mpeg4: 04374 H  06499\nAudio PID : 1120-1410\nVideo PID : 1160-1420\nPID PCR : 1160-1410"
+     },
+     {
+     "m1": "MNC News",
+     /*"m2": "http://id2.indostreamingtv.com/live/event/index.m3u8",*/
+     "m2": "https://live.rctiplus.id/rctiplus/mnctv_540p.m3u8",
+     "m3": "https://3.bp.blogspot.com/-gZO5dqBNH1s/WYHefgG_9dI/AAAAAAAAA7I/1HkId9Icbac--VAsuu0SzHRCPr-JM1SvQCLcBGAs/s1600/mncnews.png",
+     "m4": "The Most Comprehensive & IFormative News Channel",
+     "m5": "Frekuensi Parabola Digital: \nTransponder Mnctv Mpeg2: 04186 V 06250\nTransponder Mnctv Mpeg4: 0 4374 H  06499\nAudio PID : 121-32\nVideo PID : 1110-33n"
+     },
+     {
+     "m1": "SCTV (1)",
+     /*"m2": "http://rr2.dens.tv/s/s103/index11.m3u8",*/
+     "m2": "http://210.210.155.35/qwr9ew/s/s103/02.m3u8",
+     "m3": "https://1.bp.blogspot.com/-gm0SmghhtcA/WYHc8rr0paI/AAAAAAAAA60/dgRLbrXVdVMvdaPahj-Wq8uJ5bKs-H4MgCLcBGAs/s1600/sctv.png",
+     "m4": "Satu Untuk Semua",
+     "m5": "Apabila Video Tidak Bisa Diputar Silahkan Pilih Server Yang Lain \nTerus Support Aplikasi Ini. \nTerima Kasih"
+     },
+     {
+     "m1": "SCTV (2)",
+     "m2": "http://210.210.155.35/qwr9ew/s/s103/02.m3u8",
+     /*"m2": "http://id8.indostreamingtv.com/live/tv22/index.m3u8",*/
+     "m3": "https://1.bp.blogspot.com/-gm0SmghhtcA/WYHc8rr0paI/AAAAAAAAA60/dgRLbrXVdVMvdaPahj-Wq8uJ5bKs-H4MgCLcBGAs/s1600/sctv.png",
+     "m4": "Satu Untuk Semua",
+     "m5": "Apabila Video Tidak Bisa Diputar Silahkan Pilih Server Yang Lain \nTerus Support Aplikasi Ini. \nTerima Kasih"
+     },
+     {
+     "m1": "SCTV (3)",
+     "m2": "http://id1.indostreamingtv.com/live/sctv/index.m3u8",
+     "m3": "https://1.bp.blogspot.com/-gm0SmghhtcA/WYHc8rr0paI/AAAAAAAAA60/dgRLbrXVdVMvdaPahj-Wq8uJ5bKs-H4MgCLcBGAs/s1600/sctv.png",
+     "m4": "Satu Untuk Semua",
+     "m5": "Frekuensi Parabola Digital: \nTransponder  Sctv Mpeg2:  03835 H 07000\nTransponder Sctv  mpeg4 : 4732 H 12250\nAudio PID :1002\nVideo PID :1001\nPCR PID :1001"
+     },
+    {
+     "m1": "ANTV (2)",
+     "m2": "http://210.210.155.35/qwr9ew/s/s102/02.m3u8",
+     "m3": "https://4.bp.blogspot.com/-KHbaY_ZIYrY/WYHc67OD7WI/AAAAAAAAA6M/WbExBkmbzB0hekas6_0p3R1YkX4hX2pzACLcBGAs/s1600/antv.png",
+     "m4": "ANTV Keren",
+     "m5": "Apabila Video Tidak Bisa Diputar Silahkan Pilih Server Yang Lain \nTerus Support Aplikasi Ini. \nTerima Kasih"
+     },
+     {
+     "m1": "ANTV (1)",
+     /*"m2": "https://cdn-livetv1.metube.id/hls/antv.m3u8",*/
+     "m2": "http://210.210.155.35/qwr9ew/s/s102/02.m3u8",
+     "m3": "https://4.bp.blogspot.com/-KHbaY_ZIYrY/WYHc67OD7WI/AAAAAAAAA6M/WbExBkmbzB0hekas6_0p3R1YkX4hX2pzACLcBGAs/s1600/antv.png",
+     "m4": "ANTVKeren    ",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 04015\nSimbol Rate : 06000\nPolaritas :H\nAudio PID : 0258\nVideo PID : 0257 "
+     },
+     {
+     "m1": "Metro TV (1)",
+     "m2": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
+     /*"m2": "https://erva.rumahstreaming.stream/servmetr31otv/lives/playlist.m3u8",*/
+     "m3": "https://2.bp.blogspot.com/-tFe4SzqtS6s/WYHc7tHaUuI/AAAAAAAAA6c/z_-2hpqT2RQUwpaQjvHwZ6YGiyk9g7OewCLcBGAs/s1600/metrotv.png",
+     "m4": "Knowledge to Elevate",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 04080 Mpeg 2-04680 Mpeg 4\nSimbol Rate : 28125-28249\nPolaritas : H\nAudio PID : 0651\nVideo PID : 0513"
+     },
+     {
+     "m1": "Metro TV (2)",
+     "m2": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w821400494_b232000_sleng.m3u8",
+     "m3": "https://2.bp.blogspot.com/-tFe4SzqtS6s/WYHc7tHaUuI/AAAAAAAAA6c/z_-2hpqT2RQUwpaQjvHwZ6YGiyk9g7OewCLcBGAs/s1600/metrotv.png",
+     "m4": "Knowledge to Elevate",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 04080 Mpeg 2-04680 Mpeg 4\nSimbol Rate : 28125-28249\nPolaritas : H\nAudio PID : 0651\nVideo PID : 0513"
+     },
+     {
+     "m1": "TV ONE (2)",
+     "m2": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8",
+     "m3": "https://2.bp.blogspot.com/-PWX6Sb4jTn4/WYHc9ITJUOI/AAAAAAAAA68/dI08gMSHaNwjvVDKuNA4Ej8_zjRuidzMwCLcBGAs/s1600/tvone.png",
+     "m4": "Memang Beda",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 03787 Mpeg 2-04387 Mpeg 4\nSimbol Rate : 05632-05631\nPolaritas :H\nAudio VID : 0256-654\nVideo VID : 8190-038"
+     },
+     {
+     "m1": "TV ONE (3)",
+     "m2": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8",
+     "m3": "https://2.bp.blogspot.com/-PWX6Sb4jTn4/WYHc9ITJUOI/AAAAAAAAA68/dI08gMSHaNwjvVDKuNA4Ej8_zjRuidzMwCLcBGAs/s1600/tvone.png",
+     "m4": "Memang Beda",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 03787 Mpeg 2-04387 Mpeg 4\nSimbol Rate : 05632-05631\nPolaritas :H\nAudio VID : 0256-654\nVideo VID : 8190-038"
+     },
+     {
+     "m1": "TV ONE (1)",
+     "m2": "http://210.210.155.35/qwr9ew/s/s105/02.m3u8",
+     "m3": "https://2.bp.blogspot.com/-PWX6Sb4jTn4/WYHc9ITJUOI/AAAAAAAAA68/dI08gMSHaNwjvVDKuNA4Ej8_zjRuidzMwCLcBGAs/s1600/tvone.png",
+     "m4": "Memang Beda",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 03787 Mpeg 2-04387 Mpeg 4\nSimbol Rate : 05632-05631\nPolaritas :H\nAudio VID : 0256-654\nVideo VID : 8190-038"
+     },
+     {
+     "m1": "KOMPAS TV (1)",
+     "m2": "http://210.210.155.35/qwr9ew/s/s104/02.m3u8",
+     /*"m2": "https://erva.rumahstreaming.stream/servkom26pastv/lives/playlist.m3u8",*/
+     "m3": "https://1.bp.blogspot.com/-OSg_mq-l14A/WYHc7o-9biI/AAAAAAAAA6g/9hGdDKxsdVINJY926a5Hyl0MUufuCuuXQCLcBGAs/s1600/kompas.png",
+     "m4": "Berita dan Inspirasi Indonesia",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 4051\nPolarisas : V\nSimbolRate : 1600\nVideo PID : 513\nAudio PID : 411"
+     },
+     {
+     "m1": "KOMPAS TV (2)",
+     "m2": "http://210.210.155.35/qwr9ew/s/s104/02.m3u8",
+     "m3": "https://1.bp.blogspot.com/-OSg_mq-l14A/WYHc7o-9biI/AAAAAAAAA6g/9hGdDKxsdVINJY926a5Hyl0MUufuCuuXQCLcBGAs/s1600/kompas.png",
+     "m4": "Berita dan Inspirasi Indonesia",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 4051\nPolarisas : V\nSimbolRate : 1600\nVideo PID : 513\nAudio PID : 411"
+     },
+     {
+    "m1": "Elshinta TV",
+    "m2": "http://210.210.155.35/qwr9ew/s/s10/index2.m3u8",
+    "m3": "https://cdn-production-thumbor-vidio.akamaized.net/OkLgpEIR3uFAh1x6Q_fpCzwzn8Y=/smart/filters:quality(90):strip_icc()/vidio-web-prod-user/uploads/user/avatar/32065731/elshintatv-9aaf78.jpg",
+    "m4": "Tv Indonesia Online",
+    "m5": "(JIKA TIDAK BISA DIPUTAR MAKA TEKAN KEMBALI LALU TEKAN NONTON STREAMING LAGI) TV Indonesia"
+     },
+     {
+     "m1": "TRANS TV",
+     "m2": "http://210.210.155.35/qwr9ew/s/s100/02.m3u8",
+     "m3": "https://1.bp.blogspot.com/-RzKHoz61DZk/WYHc8pZt-OI/AAAAAAAAA64/mh6nkA1RxbIsFqUAmTnBs-2btIFcumz9gCLcBGAs/s1600/transtv.png",
+     "m4": "Milik Kita Bersama",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 04085\nSimbol Rate : 06000\nPolaritas : H\nAudio PID : 0036\nVideo PID : 0033 "
+     },
+     {
+     "m1": "TRANS 7 (1)",
+     "m2": "http://210.210.155.35/session/b0207112-9dd7-11e9-92db-b82a72d63267/qwr9ew/s/s101/02.m3u8",
+     "m3": "https://4.bp.blogspot.com/-59v4HTqlq-o/WYHc8j2xSoI/AAAAAAAAA6w/PefieIUy92I6wh7fgYZ5i_n5KiZmuC2wQCLcBGAs/s1600/trans7.png",
+     "m4": "Aktif, Cerdas, Menghibur ",
+     "m5": "==> Apabila Video Tidak Bisa Diputar Silahkan Pilih Server Yang Lain \n==> Terus Support Aplikasi Ini. \n==> Terima Kasih"
+     },
+     {
+     "m1": "TRANS 7 (2)",
+     "m2": "http://210.210.155.35/session/b0207112-9dd7-11e9-92db-b82a72d63267/qwr9ew/s/s101/02.m3u8",
+     "m3": "https://4.bp.blogspot.com/-59v4HTqlq-o/WYHc8j2xSoI/AAAAAAAAA6w/PefieIUy92I6wh7fgYZ5i_n5KiZmuC2wQCLcBGAs/s1600/trans7.png",
+     "m4": "Aktif, Cerdas, Menghibur ",
+     "m5": "==> Apabila Video Tidak Bisa Diputar Silahkan Pilih Server Yang Lain \n==> Terus Support Aplikasi Ini. \n==> Terima Kasih"
+     },
+     {
+     "m1": "Berita Satu",
+     "m2": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8",
+     "m3": "http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png",
+     "m4": "Inspiring & IFormative",
+     "m5": "Frekuensi Parabola Digital: \nTransponder iNews tv  Mpeg2: 04186 V 06250\nTransponder iNews tv  Mpeg4: 04374 H  06499\nAudio PID : 1120-1410\nVideo PID : 1160-1420\nPID PCR : 1160-1410"
+     },
+     {
+     "m1": "CNN Indonesia",
+     "m2": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b280000_sleng.m3u8",
+     "m3": "http://cdn.klimg.com/muvila.com/resources/news/2015/06/13/9214/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136.jpg",
+     "m4": "The Most Comprehensive & IFormative News Channel",
+     "m5": "Frekuensi Parabola Digital: \nTransponder Mnctv Mpeg2: 04186 V 06250\nTransponder Mnctv Mpeg4: 0 4374 H  06499\nAudio PID : 121-32\nVideo PID : 1110-33n"
+     },
+     {
+     "m1": "NET TV (2)",
+     "m2": "https://anevia115.mncnow.id:443/live/eds/NetTV/sa_hls/NetTV.m3u8",
+     "m3": "https://cdn-production-thumbor-vidio.akamaized.net/F0hXOsiUYyTsGyO0m22e_N3u8-4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-stream-953621.jpg",
+     "m4": "Milik Kita Bersama",
+     "m5": "==> Apabila Video Tidak Bisa Diputar Silahkan Pilih Server Yang Lain \n==> Terus Support Aplikasi Ini. \n==> Terima Kasih"
+     },
+     {
+     "m1": "NET TV (1)",
+     "m2": "http://210.210.155.35/session/30af80a2-14e3-11ea-b949-c81f66f89318/qwr9ew/s/s11/02.m3u8",
+     /*"m2": "https://erva.rumahstreaming.stream/servnet27tv/lives/playlist.m3u8",*/
+     "m3": "https://cdn-production-thumbor-vidio.akamaized.net/F0hXOsiUYyTsGyO0m22e_N3u8-4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-stream-953621.jpg",
+     "m4": "Milik Kita Bersama",
+     "m5": "==> Apabila Video Tidak Bisa Diputar Silahkan Pilih Server Yang Lain \n==> Terus Support Aplikasi Ini. \n==> Terima Kasih"
+     },
+     {
+    "m1": "TVRI Nasional (2)",
+    /*"m2": "https://erva.rumahstreaming.stream/servtv30ri/lives/playlist.m3u8",*/
+    "m2": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8",
+    "m3": "https://media.suara.com/pictures/653x366/2019/04/01/98956-logo-baru-tvri.jpg",
+    "m4": "Saluran Pemersatu Bangsa ",
+    "m5": "TV Indonesia Frekuensi Parabola Digital: Frekuensi : 03765\nSimbol Rate : 05555\nPolaritas : H\nAudio PID : 0036\nVideo PID : 0033"
+    },
+    {
+    "m1": "TVRI Nasional (1) 360p",
+    /*"m2": "https://erva.rumahstreaming.stream/servtv30ri/lives/playlist.m3u8",*/
+    "m2": "http://210.210.155.35/session/30af80a2-14e3-11ea-b949-c81f66f89318/qwr9ew/s/s11/02.m3u8",
+    "m3": "https://media.suara.com/pictures/653x366/2019/04/01/98956-logo-baru-tvri.jpg",
+    "m4": "Saluran Pemersatu Bangsa ",
+    "m5": "TV Indonesia Frekuensi Parabola Digital: Frekuensi : 03765\nSimbol Rate : 05555\nPolaritas : H\nAudio PID : 0036\nVideo PID : 0033"
+    },
+    {
+    "m1": "TVRI SPORT HD",
+    /*"m2": "https://erva.rumahstreaming.stream/servtv30ri/lives/playlist.m3u8",*/
+    "m2": "http://210.210.155.35/session/8a478486-9dd6-11e9-b949-c81f66f89318/qwr9ew/s/s107/02.m3u8",
+    "m3": "https://3.bp.blogspot.com/-8QjAZ5e47Nc/WYHc9MFxoVI/AAAAAAAAA7A/UotpQopv4Ck71726u9luvPapZbmlUKutwCLcBGAs/s1600/tvri.png",
+    "m4": "Saluran Pemersatu Bangsa ",
+    "m5": "TV Indonesia Frekuensi Parabola Digital: Frekuensi : 03765\nSimbol Rate : 05555\nPolaritas : H\nAudio PID : 0036\nVideo PID : 0033"
+   },
+   {
+     "m1": "TVRI BUDAYA",
+     "m2": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8",
+     /*"m2": "http://210.210.155.35/session/32b54260-78e0-11e8-8397-c81f66f89318/qwr9ew/s/s48/02.m3u8",*/
+     "m3": "https://3.bp.blogspot.com/-8QjAZ5e47Nc/WYHc9MFxoVI/AAAAAAAAA7A/UotpQopv4Ck71726u9luvPapZbmlUKutwCLcBGAs/s1600/tvri.png",
+     "m4": "Saluran Pemersatu Bangsa ",
+     "m5": "Frekuensi Parabola Digital: \Frekuensi : 03765\nSimbol Rate : 05555\nPolaritas : H\nAudio PID : 0036\nVideo PID : 0033"
+     },
+      {
+    "m1": "DANGDUT TV",
+    "m2": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8",
+    "m3": "https://i.pinimg.com/originals/09/dc/be/09dcbecb3bb2e44481122a50760342a4.png",
+    "m4": "Saluran OK",
+    "m5": "Frekuensi Parabola Digital: Frekuensi : 04085\nSimbol Rate : 06000\nPolaritas : H\nAudio PID : 0036\nVideo PID : 0033 "
+  },
+  {
+    "m1": "FOODIE TV",
+    "m2": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8",
+    "m3": "http://www.foodie.id/assets/images/foodie-logo.png",
+    "m4": "Saluran OK",
+    "m5": "Frekuensi Parabola Digital: Frekuensi : 04085\nSimbol Rate : 06000\nPolaritas : H\nAudio PID : 0036\nVideo PID : 0033 "
+  },
+    /*{
+     "m1": "Wesal Tv",
+     "m2": "http://119.235.249.60:1935/wesaltv/live/chunklist_w1103975712.m3u8",
+     "m3": "https://i.pinimg.com/originals/f4/7b/d4/f47bd4ea4008e8b06ce0d2b1aa08f83b.png",
+     "m4": "Saluran Tv Lokal",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "Aswaja Tv",
+     "m2": "http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8",
+     "m3": "https://pbs.twimg.com/profile_images/761114976522121217/Z9zZxlVY.jpg",
+     "m4": "Saluran Tv Lokal",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "Insan Tv",
+     "m2": "http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b769239.m3u8",
+     "m3": "https://1.bp.blogspot.com/-uLKPyiawEA4/XF5JG2iqFoI/AAAAAAAAPss/PZ3Stj049BAjjM_7nurbSNS7mGS32Oh4wCLcBGAs/s1600/ins.png",
+     "m4": "Saluran Tv Lokal",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "Akhyar Tv",
+     "m2": "http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8",
+     "m3": "https://diaisyah.files.wordpress.com/2018/01/akhyar_tv_id.png",
+     "m4": "Saluran Tv Lokal",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "Rodja Tv OK",
+     "m2": "http://210.210.155.35/session/da0d4d6c-7b8a-11e8-9d75-c81f66f89318/qwr9ew/s/s14/01.m3u8",
+     "m3": "https://rodja.tv/uploads/custom-logo.png",
+     "m4": "Saluran Tv Lokal",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "Surau Tv",
+     "m2": "http://119.235.249.60:1935/surautv/live/chunklist_w1217273313.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/id/3/30/Surautv.png",
+     "m4": "Saluran Tv Lokal",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "Nada Muslim",
+     "m2": "http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8",
+     "m3": "https://storage.nu.or.id/storage/post/16_9/big/1502245431598a72373c41e.jpg",
+     "m4": "Saluran Tv Lokal",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},*/
+{
+     "m1": "MNC SPORT",
+     "m2": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8",
+     "m3": "https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/app/webroot/files/logo/1442313335_logo_1434697345_logo_MNC-SPORT.png",
+     "m4": "MNC SPORT",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "TV 2 - Malaysia",
+     "m2": "http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/media-ukhd3m461_b3696000_542397.m3u8",
+     "m3": "https://www.livenewsworld.com/wp-content/uploads/2018/12/RTM-TV2-Malaysia.jpg",
+     "m4": "Saluran Tv Malaysia",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "TV 1-Malaysia",
+     "m2": "http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/media-uh2pievjn_b3696000_542224.m3u8",
+     "m3": "https://2.bp.blogspot.com/-siRBc7-5frE/Wj5juLrZDSI/AAAAAAAAJ1M/kpRDBSnyzWYi52XgP1QFNpPz4NRBpF99wCLcBGAs/s1600/tv1.jpg",
+     "m4": "Saluran Tv Malaysia",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "TV Okey-Malaysia",
+     "m2": "http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/media-us3cvmmfr_b3696000_542585.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",
+     "m4": "Saluran Tv Malaysia",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "THE INDONESIAN CHANNEL",
+     "m2": "http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?fluxustv.m3u8",
+     "m3": "https://img15.androidappsapk.co/300/7/e/8/rs.appweave.tic.png",
+     "m4": "THE INDONESIAN CHANNEL",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "JAKARTA GLOBE",
+     "m2": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8",
+     "m3": "http://webtvonlive.com/wp-content/uploads/Jakarta-Globe-News-webtvonlive-com.jpg",
+     "m4": "JAKARTA GLOBE",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "DANGDUT CHANNEL",
+     "m2": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8",
+     "m3": "https://i.pinimg.com/originals/09/dc/be/09dcbecb3bb2e44481122a50760342a4.png",
+     "m4": "DANGDUT CHANNEL",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "KARAOKE CHANNEL",
+     "m2": "http://edge.linknetott.swiftserve.com/live\/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8",
+     "m3": "http://nkritv.com/wp-content/uploads/2019/04/karaoke-channel-1.jpg",
+     "m4": "KARAOKE CHANNEL",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "GEM TV",
+     "m2": "http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8",
+     "m3": "http://oklivetv.com/wp-content/uploads/2015/09/gem_tv_ae.png",
+     "m4": "GEM TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "AL JAZEERA",
+     "m2": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",
+     "m3": "https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6_400x400.jpg",
+     "m4": "AL JAZEERA",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "WOWOW MOVIES",
+     "m2": "http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279",
+     "m3": "https://pmcvariety.files.wordpress.com/2013/08/wowow-logo.jpg?w=1000&h=563&crop=1",
+     "m4": "WOWOW MOVIES",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "DW TV",
+     "m2": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_3_av-p.m3u8?sd=10&play-only=primary&rebase=on",
+     "m3": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",
+     "m4": "HBO 2 HD",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "RB TV",
+     "m2": "http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png",
+     "m4": "RB TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "ANIMAX",
+     "m2": "http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/320px-Animax.png",
+     "m4": "ANIMAX",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "DMI TV",
+     "m2": "http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8",
+     "m3": "https://ninmedia.tv/wp-content/uploads/2018/10/Ch-DMI-Channel-01-250px.jpg",
+     "m4": "DMI TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "ANIPLUS",
+     "m2": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8",
+     "m3": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png",
+     "m4": "ANIPLUS",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "DISNEY JUNIOR",
+     "m2": "http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",
+     "m4": "DISNEY JUNIOR",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "SPACETOON",
+     "m2": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png",
+     "m4": "ZEE BIOSKOP",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "NU TV",
+     "m2": "http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8",
+     "m3": "http://nuchannel.tv/media/nuphoto.jpg",
+     "m4": "NU TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "SUPER SOCCER",
+     "m2": "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8",
+     "m3": "https://cdn02.supersoccer.tv/h7wKytMQUuqbKT4AIDvW_channel-sstv.png",
+     "m4": "SUPER SOCCER",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "K-DRAMA",
+     "m2": "http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg",
+     "m4": "K-DRAMA",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "RRI NET",
+     "m2": "http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png",
+     "m4": "RRI NET",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "HITS",
+     "m2": "http://210.210.155.35/uq2663/h/h37/index2.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg",
+     "m4": "HITS TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "CINEMA WORLD",
+     "m2": "http://210.210.155.35/uq2663/h/h04/index2.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/1200px-Cineworld.svg.png",
+     "m4": "CINEMA WORLD",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "DIVA",
+     "m2": "http://210.210.155.35/uq2663/h/h11/index.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/id/e/e6/Diva_Universal.png",
+     "m4": "DIVA TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "POP MUSIC",
+     "m2": "http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8",
+     "m3": "https://pbs.twimg.com/profile_images/2394026024/i7fgawiq08lt3wtjpn0d.jpeg",
+     "m4": "POP MUSIC",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "MK TV",
+     "m2": "http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8",
+     "m3": "http://static.nexg.tv/unified/admin/upload/1510728794MKTV_240x180.jpg",
+     "m4": "MK TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "MY CINEMA",
+     "m2": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8",
+     "m3": "http://nkritv.com/wp-content/uploads/2019/07/my-cinema-tv.jpg",
+     "m4": "MY CINEMA",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "THRILL",
+     "m2": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",
+     "m4": "THRILL",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "KIX TV",
+     "m2": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/en/e/e0/KIX_Logo_2014.jpg",
+     "m4": "KIX TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "CELESTIAL MOVIE",
+     "m2": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8",
+     "m3": "https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg",
+     "m4": "CELESTIAL MOVIE",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "Channel JGO TV",
+     "m2": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8",
+     "m3": "https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg",
+     "m4": "Channel JGO TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "IN TV",
+     "m2": "https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8",
+     "m3": "https://images.useetv.com/logo_intv_big1.png?v=2.0.0.11",
+     "m4": "Channel IN TV",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+},
+{
+     "m1": "HOME & LIVING",
+     "m2": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8",
+     "m3": "https://www.oona.tv/assets/img/channels/homeandliving.png",
+     "m4": "HOME & LIVING",
+     "m5": "Semoga Siarannya Memberikan Manfaat untuk Anda"
+}
+
+    
+     ]
